@@ -1,0 +1,14 @@
+{
+	"code": 1,
+	"msg": "",
+	"data": {
+		"tasks": [
+			{"label": "0点任务", "value": "0"},
+			{"label": "6点任务", "value": "1"},
+			{"label": "10点任务", "value": "2"}
+		],
+		"total": 20,
+		"currentPage": 1
+	}
+	
+}

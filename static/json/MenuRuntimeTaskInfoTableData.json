@@ -1,0 +1,27 @@
+{
+	"code": 1,
+	"msg": "",
+	"data": {
+		"tableData": [
+			{"index": 1, "tablename":"tkorahy.tkinsure.AL_POLICYHOLDERPOLICYHOLDER", "startTime":"2017-12-01 12:00:00", "endTime":"2017-12-01 12:10:00", "execTime":"10", "queryCount":"1000010000", "exportCount":"1000010000", "result":"成功", "diff":"0"},
+			{"index": 2, "tablename":"tkorahy.tkinsure.AL_POLICYHOLDER", "startTime":"2017-12-01 12:00:00", "endTime":"2017-12-01 12:10:00", "execTime":"10", "queryCount":"10000", "exportCount":"10000", "result":"成功", "diff":"0"},
+			{"index": 3, "tablename":"tkorahy.tkinsure.AL_POLICYHOLDER", "startTime":"2017-12-01 12:00:00", "endTime":"2017-12-01 12:10:00", "execTime":"10", "queryCount":"10000", "exportCount":"10000", "result":"成功", "diff":"0"},
+			{"index": 4, "tablename":"tkorahy.tkinsure.AL_POLICYHOLDER", "startTime":"2017-12-01 12:00:00", "endTime":"2017-12-01 12:10:00", "execTime":"10", "queryCount":"10000", "exportCount":"10000", "result":"成功", "diff":"0"},
+			{"index": 5, "tablename":"tkorahy.tkinsure.AL_POLICYHOLDER", "startTime":"2017-12-01 12:00:00", "endTime":"2017-12-01 12:10:00", "execTime":"10", "queryCount":"10000", "exportCount":"10000", "result":"成功", "diff":"0"},
+			{"index": 6, "tablename":"tkorahy.tkinsure.AL_POLICYHOLDER", "startTime":"2017-12-01 12:00:00", "endTime":"2017-12-01 12:10:00", "execTime":"10", "queryCount":"10000", "exportCount":"10000", "result":"成功", "diff":"0"},
+			{"index": 7, "tablename":"tkorahy.tkinsure.AL_POLICYHOLDER", "startTime":"2017-12-01 12:00:00", "endTime":"2017-12-01 12:10:00", "execTime":"10", "queryCount":"10000", "exportCount":"10000", "result":"成功", "diff":"0"},
+			{"index": 8, "tablename":"tkorahy.tkinsure.AL_POLICYHOLDER", "startTime":"2017-12-01 12:00:00", "endTime":"2017-12-01 12:10:00", "execTime":"10", "queryCount":"10000", "exportCount":"10000", "result":"成功", "diff":"0"},
+			{"index": 9, "tablename":"tkorahy.tkinsure.AL_POLICYHOLDER", "startTime":"2017-12-01 12:00:00", "endTime":"2017-12-01 12:10:00", "execTime":"10", "queryCount":"10000", "exportCount":"10000", "result":"成功", "diff":"0"},
+			{"index": 9, "tablename":"tkorahy.tkinsure.AL_POLICYHOLDER", "startTime":"2017-12-01 12:00:00", "endTime":"2017-12-01 12:10:00", "execTime":"10", "queryCount":"10000", "exportCount":"10000", "result":"成功", "diff":"0"},
+			{"index": 9, "tablename":"tkorahy.tkinsure.AL_POLICYHOLDER", "startTime":"2017-12-01 12:00:00", "endTime":"2017-12-01 12:10:00", "execTime":"10", "queryCount":"10000", "exportCount":"10000", "result":"成功", "diff":"0"},
+			{"index": 9, "tablename":"tkorahy.tkinsure.AL_POLICYHOLDER", "startTime":"2017-12-01 12:00:00", "endTime":"2017-12-01 12:10:00", "execTime":"10", "queryCount":"10000", "exportCount":"10000", "result":"成功", "diff":"0"},
+			{"index": 9, "tablename":"tkorahy.tkinsure.AL_POLICYHOLDER", "startTime":"2017-12-01 12:00:00", "endTime":"2017-12-01 12:10:00", "execTime":"10", "queryCount":"10000", "exportCount":"10000", "result":"成功", "diff":"0"},
+			{"index": 9, "tablename":"tkorahy.tkinsure.AL_POLICYHOLDER", "startTime":"2017-12-01 12:00:00", "endTime":"2017-12-01 12:10:00", "execTime":"10", "queryCount":"10000", "exportCount":"10000", "result":"成功", "diff":"0"},
+			{"index": 9, "tablename":"tkorahy.tkinsure.AL_POLICYHOLDER", "startTime":"2017-12-01 12:00:00", "endTime":"2017-12-01 12:10:00", "execTime":"10", "queryCount":"10000", "exportCount":"10000", "result":"成功", "diff":"0"},
+			{"index": 10, "tablename":"tkorahy.tkinsure.AL_POLICYHOLDER", "startTime":"2017-12-01 12:00:00", "endTime":"2017-12-01 12:10:00", "execTime":"10", "queryCount":"10000", "exportCount":"10000", "result":"成功", "diff":"0"}
+		],
+		"total": 20,
+		"currentPage": 1
+	}
+	
+}

@@ -1,0 +1,21 @@
+{
+	"code": 1,
+	"msg": "",
+	"data": {
+		"tableData": [
+			{"index": 1, "name":"电商主库", "dbName":"tkorasol", "dbType":"1", "dbUrl":"jdbc:oracle:thin:@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=lifedb.tkol.taikang.com)(PORT=1521))(ADDRESS=(PROTOCOL=TCP)(HOST=lifedb2.tkol.taikang.com)(PORT=1521))(LOAD_BALANCE=yes)(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=tkorasol)))", "updateuser":"test01", "updatetime":"2017-12-01 12:00:00"},
+			{"index": 2, "name":"电商主库", "dbName":"tkorasol", "dbType":"1", "dbUrl":"jdbc:oracle:thin:@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=lifedb.tkol.taikang.com)(PORT=1521))(ADDRESS=(PROTOCOL=TCP)(HOST=lifedb2.tkol.taikang.com)(PORT=1521))(LOAD_BALANCE=yes)(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=tkorasol)))", "updateuser":"test01", "updatetime":"2017-12-01 12:00:00"},
+			{"index": 3, "name":"电商主库", "dbName":"tkorasol", "dbType":"1", "dbUrl":"jdbc:oracle:thin:@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=lifedb.tkol.taikang.com)(PORT=1521))(ADDRESS=(PROTOCOL=TCP)(HOST=lifedb2.tkol.taikang.com)(PORT=1521))(LOAD_BALANCE=yes)(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=tkorasol)))", "updateuser":"test01", "updatetime":"2017-12-01 12:00:00"},
+			{"index": 4, "name":"电商主库", "dbName":"tkorasol", "dbType":"1", "dbUrl":"jdbc:oracle:thin:@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=lifedb.tkol.taikang.com)(PORT=1521))(ADDRESS=(PROTOCOL=TCP)(HOST=lifedb2.tkol.taikang.com)(PORT=1521))(LOAD_BALANCE=yes)(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=tkorasol)))", "updateuser":"test01", "updatetime":"2017-12-01 12:00:00"},
+			{"index": 5, "name":"财险互联网客户订单", "dbName":"tkpi", "dbType":"2", "dbUrl":"jdbc:oracle:thin:@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=lifedb.tkol.taikang.com)(PORT=1521))(ADDRESS=(PROTOCOL=TCP)(HOST=lifedb2.tkol.taikang.com)(PORT=1521))(LOAD_BALANCE=yes)(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=tkorasol)))", "updateuser":"test01", "updatetime":"2017-12-01 12:00:00"},
+			{"index": 6, "name":"电商主库", "dbName":"tkorasol", "dbType":"1", "dbUrl":"jdbc:oracle:thin:@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=lifedb.tkol.taikang.com)(PORT=1521))(ADDRESS=(PROTOCOL=TCP)(HOST=lifedb2.tkol.taikang.com)(PORT=1521))(LOAD_BALANCE=yes)(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=tkorasol)))", "updateuser":"test01", "updatetime":"2017-12-01 12:00:00"},
+			{"index": 7, "name":"电商主库", "dbName":"tkorasol", "dbType":"2", "dbUrl":"jdbc:oracle:thin:@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=lifedb.tkol.taikang.com)(PORT=1521))(ADDRESS=(PROTOCOL=TCP)(HOST=lifedb2.tkol.taikang.com)(PORT=1521))(LOAD_BALANCE=yes)(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=tkorasol)))", "updateuser":"test01", "updatetime":"2017-12-01 12:00:00"},
+			{"index": 8, "name":"电商主库", "dbName":"tkorasol", "dbType":"2", "dbUrl":"jdbc:oracle:thin:@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=lifedb.tkol.taikang.com)(PORT=1521))(ADDRESS=(PROTOCOL=TCP)(HOST=lifedb2.tkol.taikang.com)(PORT=1521))(LOAD_BALANCE=yes)(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=tkorasol)))", "updateuser":"test01", "updatetime":"2017-12-01 12:00:00"},
+			{"index": 9, "name":"电商主库", "dbName":"tkorasol", "dbType":"1", "dbUrl":"jdbc:oracle:thin:@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=lifedb.tkol.taikang.com)(PORT=1521))(ADDRESS=(PROTOCOL=TCP)(HOST=lifedb2.tkol.taikang.com)(PORT=1521))(LOAD_BALANCE=yes)(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=tkorasol)))", "updateuser":"test01", "updatetime":"2017-12-01 12:00:00"},
+			{"index": 10, "name":"电商主库", "dbName":"tkorasol", "dbType":"2", "dbUrl":"jdbc:oracle:thin:@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=lifedb.tkol.taikang.com)(PORT=1521))(ADDRESS=(PROTOCOL=TCP)(HOST=lifedb2.tkol.taikang.com)(PORT=1521))(LOAD_BALANCE=yes)(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=tkorasol)))", "updateuser":"test01", "updatetime":"2017-12-01 12:00:00"}
+		],
+		"total": 20,
+		"currentPage": 1
+	}
+	
+}

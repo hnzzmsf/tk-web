@@ -1,0 +1,19 @@
+{
+	"code": 1,
+	"msg": "",
+	"data": {
+		"names": [
+			{"label": "泰康在线_tkwebdb", "value": "0"},
+			{"label": "财险互联网客户订单_tkpi", "value": "1"},
+			{"label": "电商主库_tkorasol", "value": "2"},
+			{"label": "飞铁保_tkorahy", "value": "3"},
+			{"label": "网电库_tkntl", "value": "4"},
+			{"label": "财险_tkcx", "value": "5"},
+			{"label": "携程_tkctrip", "value": "6"},
+			{"label": "华为库_huawei", "value": "7"}
+		],
+		"total": 20,
+		"currentPage": 1
+	}
+	
+}

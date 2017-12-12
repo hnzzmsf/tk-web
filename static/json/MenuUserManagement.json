@@ -1,0 +1,21 @@
+{
+	"code": 1,
+	"msg": "",
+	"data": {
+		"tableData": [
+			{"index": 1, "username":"史振光", "account":"shizg", "createTime":"2017-12-01 12:00:00", "lastLoginTime":"2017-12-01 12:00:00", "status":"有效"},
+			{"index": 2, "username":"史振光", "account":"shizg", "createTime":"2017-12-01 12:00:00", "lastLoginTime":"2017-12-01 12:00:00", "status":"有效"},
+			{"index": 3, "username":"史振光", "account":"shizg", "createTime":"2017-12-01 12:00:00", "lastLoginTime":"2017-12-01 12:00:00", "status":"有效"},
+			{"index": 4, "username":"史振光", "account":"shizg", "createTime":"2017-12-01 12:00:00", "lastLoginTime":"2017-12-01 12:00:00", "status":"有效"},
+			{"index": 5, "username":"史振光", "account":"shizg", "createTime":"2017-12-01 12:00:00", "lastLoginTime":"2017-12-01 12:00:00", "status":"有效"},
+			{"index": 6, "username":"史振光", "account":"shizg", "createTime":"2017-12-01 12:00:00", "lastLoginTime":"2017-12-01 12:00:00", "status":"删除"},
+			{"index": 7, "username":"史振光", "account":"shizg", "createTime":"2017-12-01 12:00:00", "lastLoginTime":"2017-12-01 12:00:00", "status":"有效"},
+			{"index": 8, "username":"史振光", "account":"shizg", "createTime":"2017-12-01 12:00:00", "lastLoginTime":"2017-12-01 12:00:00", "status":"有效"},
+			{"index": 9, "username":"史振光", "account":"shizg", "createTime":"2017-12-01 12:00:00", "lastLoginTime":"2017-12-01 12:00:00", "status":"删除"},
+			{"index": 10, "username":"史振光", "account":"shizg", "createTime":"2017-12-01 12:00:00", "lastLoginTime":"2017-12-01 12:00:00", "status":"有效"}
+		],
+		"total": 20,
+		"currentPage": 1
+	}
+	
+}

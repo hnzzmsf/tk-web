@@ -1,0 +1,21 @@
+{
+	"code": 1,
+	"msg": "",
+	"data": {
+		"tableData": [
+			{"index": 1, "taskname":"20171201_0点任务", "startTime":"2017-12-01 12:00:00", "endTime":"2017-12-01 12:10:00", "execTime":"10", "result":"成功", "info":"3张表接入失败"},
+			{"index": 2, "taskname":"20171201_0点任务", "startTime":"2017-12-01 12:00:00", "endTime":"2017-12-01 12:10:00", "execTime":"10", "result":"成功", "info":"2张表存在数据顺差，1张表存在数据逆差"},
+			{"index": 3, "taskname":"20171201_0点任务", "startTime":"2017-12-01 12:00:00", "endTime":"2017-12-01 12:10:00", "execTime":"10", "result":"成功", "info":"3张表接入失败"},
+			{"index": 4, "taskname":"20171201_0点任务", "startTime":"2017-12-01 12:00:00", "endTime":"2017-12-01 12:10:00", "execTime":"10", "result":"成功", "info":"3张表接入失败"},
+			{"index": 5, "taskname":"20171201_0点任务", "startTime":"2017-12-01 12:00:00", "endTime":"2017-12-01 12:10:00", "execTime":"10", "result":"成功", "info":"3张表接入失败"},
+			{"index": 6, "taskname":"20171201_0点任务", "startTime":"2017-12-01 12:00:00", "endTime":"2017-12-01 12:10:00", "execTime":"10", "result":"成功", "info":"3张表接入失败"},
+			{"index": 7, "taskname":"20171201_0点任务", "startTime":"2017-12-01 12:00:00", "endTime":"2017-12-01 12:10:00", "execTime":"10", "result":"成功", "info":"3张表接入失败"},
+			{"index": 8, "taskname":"20171201_0点任务", "startTime":"2017-12-01 12:00:00", "endTime":"2017-12-01 12:10:00", "execTime":"10", "result":"成功", "info":"3张表接入失败"},
+			{"index": 9, "taskname":"20171201_0点任务", "startTime":"2017-12-01 12:00:00", "endTime":"2017-12-01 12:10:00", "execTime":"10", "result":"成功", "info":"3张表接入失败"},
+			{"index": 10, "taskname":"20171201_0点任务", "startTime":"2017-12-01 12:00:00", "endTime":"2017-12-01 12:10:00", "execTime":"10", "result":"成功", "info":"3张表接入失败"}
+		],
+		"total": 20,
+		"currentPage": 1
+	}
+	
+}

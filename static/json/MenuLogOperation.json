@@ -1,0 +1,21 @@
+{
+	"code": 1,
+	"msg": "",
+	"data": {
+		"tableData": [
+			{"index": 1, "operationTime":"2017-12-01 12:00:00", "username":"史振光", "account":"shisg", "ip":"192.168.1.111", "module":"接数配置" , "type":"新增", "remark":"增加了[主键]记录"},
+			{"index": 2, "operationTime":"2017-12-01 12:00:00", "username":"史振光", "account":"shisg", "ip":"192.168.1.111", "module":"用户管理" , "type":"删除", "remark":"删除了[主键]记录"},
+			{"index": 3, "operationTime":"2017-12-01 12:00:00", "username":"史振光", "account":"shisg", "ip":"192.168.1.111", "module":"接数配置" , "type":"删除", "remark":"删除了[主键]记录"},
+			{"index": 4, "operationTime":"2017-12-01 12:00:00", "username":"史振光", "account":"shisg", "ip":"192.168.1.111", "module":"接数配置" , "type":"新增", "remark":"增加了[主键]记录"},
+			{"index": 5, "operationTime":"2017-12-01 12:00:00", "username":"史振光", "account":"shisg", "ip":"192.168.1.111", "module":"接数配置" , "type":"新增", "remark":"增加了[主键]记录"},
+			{"index": 6, "operationTime":"2017-12-01 12:00:00", "username":"史振光", "account":"shisg", "ip":"192.168.1.111", "module":"接数配置" , "type":"新增", "remark":"增加了[主键]记录"},
+			{"index": 7, "operationTime":"2017-12-01 12:00:00", "username":"史振光", "account":"shisg", "ip":"192.168.1.111", "module":"接数配置" , "type":"新增", "remark":"增加了[主键]记录"},
+			{"index": 8, "operationTime":"2017-12-01 12:00:00", "username":"史振光", "account":"shisg", "ip":"192.168.1.111", "module":"接数配置" , "type":"新增", "remark":"增加了[主键]记录"},
+			{"index": 9, "operationTime":"2017-12-01 12:00:00", "username":"史振光", "account":"shisg", "ip":"192.168.1.111", "module":"接数配置" , "type":"新增", "remark":"增加了[主键]记录"},
+			{"index": 10, "operationTime":"2017-12-01 12:00:00", "username":"史振光", "account":"shisg", "ip":"192.168.1.111", "module":"接数配置" , "type":"新增", "remark":"增加了[主键]记录"}
+		],
+		"total": 20,
+		"currentPage": 1
+	}
+	
+}
